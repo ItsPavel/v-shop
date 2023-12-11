@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 100,
+      "title": "Ipnone 200",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 12000
+    },
+    {
+      "id": 101,
+      "title": "Samsung AAZ8",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 22000
+    },
+    {
+      "id": 103,
+      "title": "Nokia 3310",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 5000
+    },
+    {
+      "id": 105,
+      "title": "Huawei ZZ",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 15000
+    },
+    {
+      "id": 106,
+      "title": "Nokia 4010",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 5000
+    },
+    {
+      "id": 108,
+      "title": "Huawei ZZ",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 3000
+    },
+    {
+      "id": 109,
+      "title": "Samsung x200",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 113000
+    },
+    {
+      "id": 110,
+      "title": "Huawei ZZ",
+      "disc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis id voluptatibus expedita non enim voluptates a impedit voluptas iusto maiores officiis fuga",
+      "price": 20000
+    }
+  ]
+}

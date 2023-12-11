@@ -1,24 +1,22 @@
 # shope
 
-## Project setup
+## Стек
+
 ```
-npm install
+Vue 3 Options api
+Vue Router
+Vuex
+Bootstrap 5
+API товаров: Json server
+Адаптивная верстка
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Установка
 
-### Compiles and minifies for production
 ```
-npm run build
-```
+1. npm install - установить npm зависимости
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. npm rest-api - запуск Fake API
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. npm run serve - запустить в режиме разработки
+```
